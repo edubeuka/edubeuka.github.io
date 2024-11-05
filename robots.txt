@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://edubeuka.github.io/abt/sitemap_index.txt
+Sitemap: https://edubeuka.github.io/grw/sitemap_index.txt
+Sitemap: https://edubeuka.github.io/vmN/sitemap_index.txt
+Sitemap: https://edubeuka.github.io/yKT/sitemap_index.txt
